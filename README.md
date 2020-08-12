@@ -3,8 +3,7 @@ PSNetMon - PowerShell Network Resource Monitoring Tool <BR />
 PSNetMon is a completely PowerShell driven resource monitoring tool. It is completely open source.<BR />
 PSNetMon can be run from any computer with PowerShell 3.0 or greater.<BR /><BR />
 Network resource monitoring utility written in HTML and PowerShell. Completely customizable. Monitor hosts, ports and services. Always a work in progress. Looking for others to help with development. <BR />
-Contributors always welcome!<BR />T
-hank you!<BR /><BR />
+Contributors always welcome!<BR /><BR />
 
 Code Base:<BR /><BR />
 
