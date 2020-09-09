@@ -48,10 +48,8 @@ reports are disabled but can be re-enabled by creating new CSV files and placing
 PSNetMon To Do list
 - [ ] Consolidate code
 - [ ] Make CSS button format changer
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Remove old menu system
+- [ ] Review feature requests
 
 <BR /><BR />
 Change Revision<BR />
