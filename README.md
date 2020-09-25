@@ -16,7 +16,7 @@ CSS - customizable cascading style files used for customizing the appearance of 
 Base file system will resemble the following:<BR />
 <IMG SRC="https://github.com/bvoris/PSNetMon/blob/master/screenshots/psnetmonss04.PNG"><BR /> 
 
-This is still a work in progress and incomplete but it is a network monitoring utility. This is a tool was developted to help monitor hosts, ports, and services on a network. It is designed to be completely customizable and written in PowerShell and HTML with no additional plugins. Small form factor with a total install base of under 1MB. Designed with small environments in mind. Anyone interested in assisting with this project please let me know.
+This is still a work in progress and incomplete but it is a network monitoring utility. This is a tool was developted to help monitor hosts, ports, and services on a network. It is designed to be completely customizable and written in PowerShell and HTML with no additional plugins. Small form factor with a total install base of under 10MB. Designed with small environments in mind. Anyone interested in assisting with this project please let me know.
 
 
 # Prerequisites
