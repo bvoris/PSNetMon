@@ -37,7 +37,7 @@ Follow instructions in docs\How to install PSNetMon.docx<BR /><BR />
 
 reports are disabled but can be re-enabled by creating new CSV files and placing them in the \reports directory named icmp.csv, ports.csv, count.csv, services.csv<BR /><BR />
 
-PSNetMon To Do list
+# PSNetMon To Do list
 - [x] Consolidate code
 - [ ] Make CSS button format changer
 - [ ] Remove old menu system
@@ -45,9 +45,7 @@ PSNetMon To Do list
 - [ ] IPv6 Support
 - [ ] Implement weather system information based on existing project and webscrapping
 
-
-<BR /><BR />
-Screenshots for this project:<BR />
+# Screenshots for this project:
 Main Dashboard v4.1<BR />
 <IMG SRC="https://github.com/bvoris/PSNetMon/blob/master/screenshots/psnetmonss01.PNG"><BR />
 Support Page v4.1<BR />
