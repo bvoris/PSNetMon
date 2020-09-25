@@ -50,6 +50,7 @@ PSNetMon To Do list
 - [ ] Make CSS button format changer
 - [ ] Remove old menu system
 - [ ] Review feature requests
+- [ ] IPv6 Support
 - [ ] Implement weather system information based on existing project and webscrapping
 
 
