@@ -1,0 +1,27 @@
+Configuration information should be put into the cfg files
+
+Computers.cfg
+Notes: 
+Should have a web address, DNS HostName or IPv4 addresses seperated by a return
+
+Example:
+192.168.0.1
+Victimoftechnology.com
+ComputerHostName
+
+ComputerDescriptions.cfg
+Notes: 
+Note currently in use
+
+Portcfga.cfg
+Note: specific port number for TCP or UDP
+Example:
+80
+
+PortHostsa.cfg
+Notes: 
+DNS Hostname OR IPv4 address seperated by a return
+
+Example:
+ComputerHostname
+192.168.0.1
