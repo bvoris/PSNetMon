@@ -9,6 +9,7 @@ Created By: Brad Voris<BR />
  
 # CODE BASE:
 PowerShell - all scripts stored in \scripts<BR />
+CFG - all configuration files for variables stored in \cfg<BR />
 HTML - all scripts write results to HTML files stored in root and \gen directories<BR />
 CSS - customizable cascading style files used for customizing the appearance of PSNetMon<BR /><BR />
 
