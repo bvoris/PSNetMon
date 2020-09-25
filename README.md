@@ -54,7 +54,10 @@ PSNetMon To Do list
 
 
 <BR /><BR />
-
+Screenshots for this project:<BR />
+<IMG SRC="https://github.com/bvoris/PSNetMon/blob/master/screenshots/psnetmonss01.PNG"><BR />
+<IMG SRC="https://github.com/bvoris/PSNetMon/blob/master/screenshots/psnetmonss02.PNG"><BR />
+<IMG SRC="https://github.com/bvoris/PSNetMon/blob/master/screenshots/psnetmonss03.PNG"><BR />
 
 ## Connect with me at
 
