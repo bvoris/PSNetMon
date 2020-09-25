@@ -8,10 +8,13 @@ Contributors always welcome!<BR /><BR />
 Created By: Brad Voris<BR />
  
 # CODE BASE:
-PowerShell - all scripts stored in \scripts<BR />
-CFG - all configuration files for variables stored in \cfg<BR />
-HTML - all scripts write results to HTML files stored in root and \gen directories<BR />
+Base menu system - all HTML base menu system files stored in c:\inetpub\wwwroot<BR />
+PowerShell - all scripts stored in c:\inetpub\wwwroot\scripts<BR />
+CFG - all configuration files for variables stored in c:\inetpub\wwwroot\cfg<BR />
+HTML - all scripts write results to HTML files stored in and c:\inetpub\wwwroot\gen directories<BR />
 CSS - customizable cascading style files used for customizing the appearance of PSNetMon<BR /><BR />
+Base file system will resemble the following:<BR />
+<IMG SRC="https://github.com/bvoris/PSNetMon/blob/master/screenshots/psnetmonss04.PNG"><BR /> 
 
 This is still a work in progress and incomplete but it is a network monitoring utility. This is a tool was developted to help monitor hosts, ports, and services on a network. It is designed to be completely customizable and written in PowerShell and HTML with no additional plugins. Small form factor with a total install base of under 1MB. Designed with small environments in mind. Anyone interested in assisting with this project please let me know.
 
