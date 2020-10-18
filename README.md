@@ -5,7 +5,7 @@ PSNetMon is a completely PowerShell driven resource monitoring tool. It is compl
 PSNetMon can be run from any computer with PowerShell 3.0 or greater.<BR /><BR />
 Description: Network resource monitoring utility written in HTML and PowerShell. Completely customizable. Monitor hosts, ports and services. Always a work in progress. Looking for others to help with development. <BR />
 Contributors always welcome!<BR /><BR />
-Created By: Brad Voris<BR />
+Created By: Brad Voris<BR /><BR />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social">
 
@@ -71,10 +71,10 @@ Credits Page v.4.1<BR />
 
 <a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=4% ALIGN=RIGHT></a>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social">
-
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
 <A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social">
+
 <BR /><BR />
