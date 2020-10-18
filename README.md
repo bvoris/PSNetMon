@@ -7,6 +7,7 @@ Description: Network resource monitoring utility written in HTML and PowerShell.
 Contributors always welcome!<BR /><BR />
 Created By: Brad Voris<BR />
 
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PSNetMon">
 
 # CODE BASE:
 Base menu system - all HTML base menu system files stored in c:\inetpub\wwwroot<BR />
