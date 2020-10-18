@@ -8,6 +8,12 @@ Contributors always welcome!<BR /><BR />
 Created By: Brad Voris<BR />
 
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PSNetMon">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/PSNetMon">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/PSNetMon/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/PSNetMon">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/PSNetMon">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/PSNetMon">
+
 
 # CODE BASE:
 Base menu system - all HTML base menu system files stored in c:\inetpub\wwwroot<BR />
