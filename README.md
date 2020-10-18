@@ -7,9 +7,7 @@ Description: Network resource monitoring utility written in HTML and PowerShell.
 Contributors always welcome!<BR /><BR />
 Created By: Brad Voris<BR />
 
-# LICENSE
 
-  
 # CODE BASE:
 Base menu system - all HTML base menu system files stored in c:\inetpub\wwwroot<BR />
 PowerShell - all scripts stored in c:\inetpub\wwwroot\scripts<BR />
