@@ -72,9 +72,10 @@ Credits Page v.4.1<BR />
 <a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=4% ALIGN=RIGHT></a>
 
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social">
 <BR /><BR />
 <A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/bvoris?style=social">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/bvoris?style=social">
+
 
 <BR /><BR />
