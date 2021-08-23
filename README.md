@@ -51,9 +51,11 @@ reports are disabled but can be re-enabled by creating new CSV files and placing
 # PSNetMon To Do list
 - [x] Consolidate code
 - [x] Remove old menu system
-- [ ] Review feature requests
 - [x] IPv6 Support
 - [x] Implement weather system information based on existing project and webscrapping
+- [x] Dashboard clean-up
+- [ ] Review feature requests
+
 
 # Screenshots for this project:
 Main Dashboard v4.1<BR />
