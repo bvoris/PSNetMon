@@ -65,6 +65,17 @@ Support Page v4.1<BR />
 Credits Page v.4.1<BR /> 
 <IMG SRC="https://github.com/bvoris/PSNetMon/blob/master/screenshots/psnetmonss03.PNG"><BR />
 
+# RECENT CHANGES FOR 4.5
+4.5 2-2022 - 5-2022 Public release update
+Overall Changes: Versioning added tp scripts, removed deprecated C# code for date and time stamp added new dated conversion function, fix date time function with 12 hour vs 24 hour time, fixed broken count function for multiple counts, removed Technet link
+Support: additional support functionality and integration for Linux by removing depricated C# calls. Converted C# calls to PowerShell 7.x+ capatibility
+Added meta tag for 30 minute refresh of index.html (rectifies internal server failure error)
+Structure:  renamed menu_2 to menu (left over from original menu systems)
+Function Additions: Host Report button and function added. Seperate script to run weekly or monthly ONLY
+Added PSNetMon Security Report
+Current Time added to Alerts via JavaScript
+IPv6 support Fixed
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
