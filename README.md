@@ -31,9 +31,9 @@ This is still a work in progress and incomplete but it is a network monitoring u
 
 
 # Prerequisites
-Microsoft Windows XP (Sp 3) or higher<BR />
+Microsoft Windows 7 or higher<BR />
 IIS Web Server (Internet Information Services) (any version will do)<BR />
-Powershell 3.0 or higher<BR />
+Powershell 5.x (6.x & 7.x not supported)<BR />
 
  
 # Download and Installation
