@@ -58,12 +58,11 @@ reports are disabled but can be re-enabled by creating new CSV files and placing
 
 
 # Screenshots for this project:
-Main Dashboard v4.1<BR />
+Main Dashboard v4.5<BR />
 <IMG SRC="https://github.com/bvoris/PSNetMon/blob/master/screenshots/psnetmonss01.PNG"><BR />
-Support Page v4.1<BR />
+Support Page v4.5<BR />
 <IMG SRC="https://github.com/bvoris/PSNetMon/blob/master/screenshots/psnetmonss02.PNG"><BR />
-Credits Page v.4.1<BR /> 
-<IMG SRC="https://github.com/bvoris/PSNetMon/blob/master/screenshots/psnetmonss03.PNG"><BR />
+
 
 # RECENT CHANGES FOR 4.5
 4.5 2-2022 - 5-2022 Public release update
