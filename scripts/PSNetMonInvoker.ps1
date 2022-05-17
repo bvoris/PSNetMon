@@ -1,6 +1,7 @@
 #  Powershell NetMon Consolidation Script
 #  Created by: Brad Voris
 #  Description: Script that runs all of the PSNetMon scripts
+#  Version: 4.5
 
 # Run PSNetMon Count Script for count of monitored resources
 Invoke-Command {C:\inetpub\wwwroot\scripts\PSNetMonCountModule.ps1}
@@ -20,3 +21,8 @@ Invoke-Command {C:\inetpub\wwwroot\scripts\PSNetMonRSSTickerModule.ps1}
 # Run PSNetMon Service Script runs Weather module
 Invoke-Command {C:\inetpub\wwwroot\scripts\PSNetMonWeatherModule.ps1}
 
+# Run PSNetMon Service Script runs security report module
+Invoke-Command {C:\inetpub\wwwroot\scripts\PSNetMonSecurityReportModule.ps1}
+
+# Run PSNetMon Service Script runs support module
+Invoke-Command {C:\inetpub\wwwroot\scripts\PSNetMonSupportModule.ps1}
