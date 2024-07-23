@@ -1,3 +1,4 @@
+# DUE TO CHANGES IN POWERSHELL: PSNetMon will no longer be mantained.
 # PSNetMon
 <IMG SRC="https://github.com/bvoris/PSNetMon/blob/master/screenshots/psnetmonss00.PNG"><BR /> 
 PSNetMon - PowerShell Network Resource Monitoring Tool v4.5 <BR />
